@@ -1,3 +1,0 @@
-
-{"error_code":403,"error_message":"Clé API invalide."}
-yment_reference":null,"payment_method":"FLOOZ","datetime":null,"status":2}
